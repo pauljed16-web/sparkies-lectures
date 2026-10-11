@@ -1,16 +1,1 @@
-[
-    {
-        "Id":  "59d8b417-7508-4e19-b48a-9288abcb65ee",
-        "CourseName":  "test1",
-        "LectureDate":  "2026-10-10",
-        "Instructor":  "test2",
-        "Url":  "https://www.youtube.com/watch?v=zhdh_LspRHk"
-    },
-    {
-        "Id":  "df895c32-ac04-489b-b841-3c7387b7699b",
-        "CourseName":  "Kegull",
-        "LectureDate":  "2026-10-10",
-        "Instructor":  "try",
-        "Url":  "https://www.youtube.com/watch?v=SxidYFBKDQo"
-    }
-]
+[{"Id":"59d8b417-7508-4e19-b48a-9288abcb65ee","CourseName":"test1","LectureDate":"2026-10-10","Instructor":"test2","Url":"https://www.youtube.com/watch?v=zhdh_LspRHk"},{"Id":"df895c32-ac04-489b-b841-3c7387b7699b","CourseName":"Kegull","LectureDate":"2026-10-10","Instructor":"try","Url":"https://www.youtube.com/watch?v=SxidYFBKDQo"},{"Id":"e3681a5a-d687-4e37-8551-e61be99df0bb","CourseName":"Sparkgay","LectureDate":"2026-09-28","Instructor":"testtesters","Url":"https://www.youtube.com/shorts/r3rQCCbU94o"}]
